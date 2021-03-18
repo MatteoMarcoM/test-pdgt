@@ -2,3 +2,5 @@ ciao tutti!
 prima modifica
 terza riga fatta da remoto
 modifica locale mondo
+altra riga da remoto e conflitto
+
