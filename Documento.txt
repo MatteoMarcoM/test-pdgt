@@ -1,3 +1,4 @@
 ciao tutti!
 prima modifica
 terza riga fatta da remoto
+altra riga da remoto e conflitto
